@@ -1,4 +1,4 @@
-# Displays IMDB's Top 250 movies that match a search string.
+# Displays IMDB's Top 100 movies that match a search string.
 def main():
     searchWord = getWord()
     file = open("imdb.txt")
